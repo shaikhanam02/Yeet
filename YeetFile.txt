@@ -1,3 +1,4 @@
 function joshya(){
-	let tempVar = 100;
+	// laay marr khahsil
+	let tempVar = 1982346;
 }
