@@ -1,0 +1,7 @@
+.mazi-navin-style{
+	color: "black";
+}
+
+.joshyachi-navin-style{
+	color: "pink";
+}
