@@ -1,4 +1,0 @@
-function joshya(){
-	// laay marr khahsil
-	let tempVar = 1982346;
-}
