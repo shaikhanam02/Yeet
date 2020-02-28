@@ -1,7 +1,0 @@
-.sidebar{
-	color: "panchat";
-}
-
-.sidebar-button{
-	color: "orange";
-}
